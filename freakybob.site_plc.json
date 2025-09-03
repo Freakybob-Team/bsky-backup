@@ -1,0 +1,20 @@
+{
+  "did": "did:plc:z4ekrgwajxgdqgs6ultkipex",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shezvQW2n9Luip7gLiEMbCPrXHkVsyW1F8G4Qb8rYG7kgL"
+  },
+  "rotationKeys": [
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK",
+    "did:key:zDnaeWyDbsByqs8WcSZQdjLRbd2HaUVfL9fRQaxKhVbKLzyyy"
+  ],
+  "alsoKnownAs": [
+    "at://freakybob.site"
+  ],
+  "services": {
+    "atproto_pds": {
+      "type": "AtprotoPersonalDataServer",
+      "endpoint": "https://porcini.us-east.host.bsky.network"
+    }
+  }
+}

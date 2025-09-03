@@ -1,0 +1,64 @@
+{
+  "alsoKnownAs": [
+    "at://freakybobsite.bsky.social"
+  ],
+  "prev": null,
+  "rotationKeys": [
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://porcini.us-east.host.bsky.network",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "qI81jvWXd7uOtvlC5T_b5938MGge7xIYmcGidoLMpIYAadJAX6PUzDoCkElTInoUq4avWnf4L4ty60jLKSVziw",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shezvQW2n9Luip7gLiEMbCPrXHkVsyW1F8G4Qb8rYG7kgL"
+  }
+}
+{
+  "alsoKnownAs": [
+    "at://freakybob.site"
+  ],
+  "prev": "bafyreigpbcujvqcnzq4buxvc42sdzf25v4bzdh7dff3q4bhhexuzddnur4",
+  "rotationKeys": [
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://porcini.us-east.host.bsky.network",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "62WiOLTVjShd6y8ENbHy5Mxk2bL5pCT56TsMG46xzKsxk198RipG_iGCT8XT021ocql_dGcSYu82ogDlg-r5lA",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shezvQW2n9Luip7gLiEMbCPrXHkVsyW1F8G4Qb8rYG7kgL"
+  }
+}
+{
+  "alsoKnownAs": [
+    "at://freakybob.site"
+  ],
+  "prev": "bafyreiaxxvjdkpyofirje6xy4ssyetj6k5tlidm3e4qmlj7v46aw7lwdhy",
+  "rotationKeys": [
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK",
+    "did:key:zDnaeWyDbsByqs8WcSZQdjLRbd2HaUVfL9fRQaxKhVbKLzyyy"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://porcini.us-east.host.bsky.network",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "2k1G_f4yOePukHBTI5dlqVvvDOmhv9rTOkugPYaOEg8D-JqTO8TpoU_1f4XSvCUF7inO8AZRiitj30Ugfs8ckA",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shezvQW2n9Luip7gLiEMbCPrXHkVsyW1F8G4Qb8rYG7kgL"
+  }
+}
