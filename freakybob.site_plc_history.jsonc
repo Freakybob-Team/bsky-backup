@@ -62,3 +62,26 @@
     "atproto": "did:key:zQ3shezvQW2n9Luip7gLiEMbCPrXHkVsyW1F8G4Qb8rYG7kgL"
   }
 }
+{
+  "alsoKnownAs": [
+    "at://freakybob.site"
+  ],
+  "prev": "bafyreih7cg34lyp32dv3juatvc5ms426itapvhrufok5wjepbhvgtgr3dm",
+  "rotationKeys": [
+    "did:key:zQ3shNRZEe5f5K4bTvRKwoM5hj47en7WCxpzgotzACvHwoXfu",
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK",
+    "did:key:zDnaeWyDbsByqs8WcSZQdjLRbd2HaUVfL9fRQaxKhVbKLzyyy"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://porcini.us-east.host.bsky.network",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "M6RWAV0FcxtddhNlcgm3Ztg_FWA6dTDD5t2ptAVlIRYsVmEly_mGkQUFgSYCJmznIfHgxT60aKDokjVESWAlqw",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shezvQW2n9Luip7gLiEMbCPrXHkVsyW1F8G4Qb8rYG7kgL"
+  }
+}
