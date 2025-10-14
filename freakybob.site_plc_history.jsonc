@@ -85,3 +85,23 @@
     "atproto": "did:key:zQ3shezvQW2n9Luip7gLiEMbCPrXHkVsyW1F8G4Qb8rYG7kgL"
   }
 }
+{
+  "alsoKnownAs": [
+    "at://freakybob.site"
+  ],
+  "prev": "bafyreiethkwulk4uoq4gn3q6cmomij5oru5o5usgymft4oambropnxuyti",
+  "rotationKeys": [
+    "did:key:zQ3shuT9p9qxyXwJaUPsegQ5GCp7fxyLsjDKS5nybPXSohght"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://pds.witchcraft.systems",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "oexb0AHB_PWuT4wjDxcvMXmR_2uxeaQXT_iDlGjW0MhZGiSTpsoBETEEpIR4c_PqOfej0If_aZHqr9_Z9gnw8w",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shwDpBo4jWMD3v2sykGtTmuEz35hNU8RboTfgz39bGjrJp"
+  }
+}

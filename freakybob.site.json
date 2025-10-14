@@ -13,14 +13,14 @@
       "id": "did:plc:z4ekrgwajxgdqgs6ultkipex#atproto",
       "type": "Multikey",
       "controller": "did:plc:z4ekrgwajxgdqgs6ultkipex",
-      "publicKeyMultibase": "zQ3shezvQW2n9Luip7gLiEMbCPrXHkVsyW1F8G4Qb8rYG7kgL"
+      "publicKeyMultibase": "zQ3shwDpBo4jWMD3v2sykGtTmuEz35hNU8RboTfgz39bGjrJp"
     }
   ],
   "service": [
     {
       "id": "#atproto_pds",
       "type": "AtprotoPersonalDataServer",
-      "serviceEndpoint": "https://porcini.us-east.host.bsky.network"
+      "serviceEndpoint": "https://pds.witchcraft.systems"
     }
   ]
 }
